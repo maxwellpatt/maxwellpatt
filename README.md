@@ -1,4 +1,4 @@
-<h1 align="center"> Hi! I'm Maxwell Patterson👋</h1>
+<h1 align="center"> Hi! I'm Maxwell Patterson </h1>
 
 👩🏻‍💻 **Website:** [maxwellpatt.github.io](https://maxwellpatt.github.io/)  
 
