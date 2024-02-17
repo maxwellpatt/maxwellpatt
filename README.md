@@ -1,9 +1,9 @@
 <h1 align="center"> Hi! I'm Maxwell Patterson </h1>
 
-👩🏻‍💻 **Website:** [maxwellpatt.github.io](https://maxwellpatt.github.io/)  
+**Website:** [maxwellpatt.github.io](https://maxwellpatt.github.io/)  
 
 
-🌱 Currently pursuing a Master of Environmental Data Science (MEDS) at UCSB's Bren School of Envrionmental Science & Management (expected June 2024)
+Currently pursuing a Master of Environmental Data Science (MEDS) at UCSB's Bren School of Envrionmental Science & Management (expected June 2024)
 
 
 ### School stuff
