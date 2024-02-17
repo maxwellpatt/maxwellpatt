@@ -7,14 +7,14 @@
 
 
 ### School stuff
-- 🔭 Our current classes include:
+- Our current classes include:
     - Machine Learning in Environmental Data Science
     - Data Visualization and Communication
     - Environmental Policy Evaluation
     - Shiny App development
  
 ### Personal stuff
-- 🔭 Outside of class, I am working on:
+- Outside of class, I am working on:
     - Probabilistic machine learning in Python 
     - Analyzing my Whoop data
     - Book recipe generator using LLMs and sentiment analysis
