@@ -29,6 +29,6 @@ Currently pursuing a Master of Environmental Data Science (MEDS) at UCSB's Bren 
 
 
 
-💬 Ask me about cooking, basketball, water polo, DJing, Sarah J Maas or any books you've been reading!
+💬 Ask me about cooking, basketball, water polo, DJing, Sarah J Maas or the Bren School
 
 
