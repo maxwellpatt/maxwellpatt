@@ -19,13 +19,11 @@
     - Analyzing my Whoop data
     - Book recipe generator using LLMs and sentiment analysis
     - SQL
-
-
+  
 
 ### Education
 - MEDS (expected 2024) Master of Environmental Data Science -- UC Santa Barbara: Bren School of Environmental Science & Management
-- Ba (2023) Applied Mathematics and Economics -- Brown University
-
+- BA (2023) Applied Mathematics and Economics -- Brown University
 
 
 
