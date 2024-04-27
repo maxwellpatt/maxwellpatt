@@ -8,17 +8,17 @@ Currently pursuing a Master of Environmental Data Science (MEDS) at UCSB's Bren 
 
 ### School stuff
 - Our current classes include:
-    - Machine Learning in Environmental Data Science
-    - Data Visualization and Communication
-    - Environmental Policy Evaluation
+    - Modeling environmental systems
+    - Text and sentiment analysis
+    - Databases and data management
     - Shiny App development
  
 ### Personal stuff
 - Outside of class, I am working on:
-    - Probabilistic machine learning in Python 
+    - Probabilistic machine learning  
     - Analyzing my Whoop data
-    - Book recipe generator using LLMs and sentiment analysis
-    - SQL
+    - TorchGeo
+    - Fantasy basketball analysis
   
 
 ### Education
