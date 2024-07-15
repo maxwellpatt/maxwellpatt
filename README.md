@@ -11,7 +11,6 @@ I am excited to join Zulu Ecosystems for the summer! I will mostly be working on
 ### Personal stuff
 - Outside of class, I am working on:
     - Communicating the importance of Senate Bill 1137 to California voters
-    - Deep learning projects
     - Analyzing my Whoop data
     - Fantasy basketball analysis
   
