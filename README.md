@@ -5,14 +5,11 @@ Recent graduate with a Master of Environmental Data Science (MEDS) from UCSB's B
 
 
 ### Work stuff
-I am excited to join Zulu Ecosystems for the summer! I will mostly be working on business development projects and expanding their client base into the US. 
+I am working at Zulu Ecosystems, on the R&D team mostly, doing a mix of data science and research in the R&D team.
 
  
 ### Personal stuff
-- Outside of class, I am working on:
-    - Communicating the importance of Senate Bill 1137 to California voters
-    - Analyzing my Whoop data
-    - Fantasy basketball analysis
+- Outside of class, I am working on a big fantasy basketball project, where I am working on report automation, player stats forecasting, and trade calculator development.
   
 
 ### Education
