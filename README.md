@@ -5,7 +5,7 @@ Recent graduate with a Master of Environmental Data Science (MEDS) from UCSB's B
 
 
 ### Work stuff
-I am working at Zulu Ecosystems, on the R&D team mostly, doing a mix of data science and research related tasks.
+I am working at Zulu Ecosystems, on the R&D team mostly, doing mostly geospatial data science.
 
  
 ### Personal stuff
