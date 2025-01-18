@@ -9,7 +9,7 @@ I am working at Zulu Ecosystems, on the R&D team mostly, doing geospatial data s
 
  
 ### Personal stuff
-- Outside of class, I am working on a big fantasy basketball project, where I am working on report automation, player stats forecasting, and trade calculator development.
+- I am working on a fantasy basketball project, where I am working on report automation, player stats forecasting, and trade calculator development.
   
 
 ### Education
